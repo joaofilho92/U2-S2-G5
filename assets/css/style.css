@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+}
+
+
+#foot2{
+    margin-top: -30px;
+    margin-left: -5px;
+}
+
+#icons{
+    margin-top: -30px;
+    margin-left: 150px;
+    font-size: 12px;
+    
+}
+
+#netflix1{
+    font-size: 14px;
+}
+
+.l1{
+    line-height: 30px;
+}
+
+#fut{
+    margin-left: 310px;
+    padding: 3px;
+}
